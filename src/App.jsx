@@ -2,8 +2,8 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-import Cards from './Components/Cards'
-import Menuitems from './Components/Menuitems'
+import Cards from './vite-project/Components/Cards'
+import Menuitems from './vite-project/Components/Menuitems'
 
 function App() {
   // const [count, setCount] = useState(0)
